@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg", NickOnline
+https://x1co.com.br/hls/0/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg", Fox Kids
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/50xRCfDM/jetix-logo.jpg", Jetix
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/t70kcjXC/nicktoons.jpg", NickToons Brasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/GtrgvgjN/ministerio_infantil.jpg", Ministério Infantil TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/pXFrrsjk/retrocartoon.jpg", Retrô Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/Qxh10Z7j/tv-kids-mais.jpg", Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/v8KrBvtF/rumtime.jpg", Run:Time
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/fyPfQcBs/moviesphere.jpg", MovieSphere
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/0jf73RwY/filmeliertv.jpg", Filmelier TV
+https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/6QmR9jMS/cine-classicos-do-cinema.png", Cine Clássicos do Cinema
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/wj4fJYjr/cine-catastrofe.png", Cine Catástrofe
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/vTFQRjWc/classique-tv.jpg", Classique TV
+ https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/C1dGFTqM/adrenalina_pura_tv.jpg", Adrenalina Pura TV
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
