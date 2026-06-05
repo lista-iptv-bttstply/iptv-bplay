@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg", NickOnline
+##EXTM3U url-tvg="https://x1co.com.br/epg.xml"
+#EXTINF:0 type="stream" channelId="nickonline.br" group="Infantil" logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg", NickOnline
 https://x1co.com.br/hls/0/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg", Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
@@ -24,6 +24,30 @@ https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/wj4fJYjr/cine-catastrofe.png", Cine Catástrofe
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/vTFQRjWc/classique-tv.jpg", Classique TV
- https://stmv1.srvif.com/classique/classique/playlist.m3u8
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Filmes" logo="https://i.postimg.cc/C1dGFTqM/adrenalina_pura_tv.jpg", Adrenalina Pura TV
 https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Notícias" logo="https://i.postimg.cc/t4JPHdTj/jovem_pan.jpg", Jovem Pan News
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Notícias" logo="https://i.postimg.cc/NF5jbN5d/sbt_news.jpg", SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Notícias" logo="https://i.postimg.cc/tT62N4T3/record-news.jpg", Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Notícias" logo="https://i.postimg.cc/4N4pC1D1/veja-mais.jpg", Veja +
+https://cdn-5.nxplay.com.br/VEJA_PLUS_FAST/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/cHDQddGC/rede-utvbrasil.png", Rede UTV Brasil
+https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/chunklist_w1989918491.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/PfKLvRv5/record-tv.png", TV Record (TV Tropical)
+https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/C5sP4YzB/rede-tv.png", Rede TV
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/g2pVCyLn/tv-cultura.jpg", TV Cultura (catve)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/3RkmXnVb/sbt.png", SBT
+https://video09.logicahost.com.br/sbtroo/sbtroo/playlist.m3u
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/Gh8y0j93/tv-bandeirantes.jpg", Band
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/tTf06J3D/tvgazeta-logo.jpg", Gazeta
+https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u
+#EXTINF:0 type="stream" channelId="-1" group="TV Aberta" logo="https://i.postimg.cc/TY6wHCzf/redeglobo.jpg", Globo SP
+https://cdn.jsdelivr.net/gh/joquinha2025/fora-do-ar/em-manutencao.m3u8
