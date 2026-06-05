@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://x1co.com.br/epg.xml"
-#EXTINF:-1 tvg-id="nickonline.br" group-title="Infantil",NickOnline
+#EXTINF:0 channelId="nickonline" tvg-id="nickonline" group="Infantil" logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg",NickOnline
 https://x1co.com.br/hls/0/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg", Fox Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
