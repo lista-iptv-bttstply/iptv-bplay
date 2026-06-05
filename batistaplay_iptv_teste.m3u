@@ -1,4 +1,4 @@
-##EXTM3U url-tvg="https://x1co.com.br/epg.xml"
+#EXTM3U url-tvg="https://x1co.com.br/epg.xml"
 #EXTINF:0 type="stream" channelId="nickonline.br" group="Infantil" logo="https://i.postimg.cc/BQcPnGB4/nick-online.jpg", NickOnline
 https://x1co.com.br/hls/0/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Infantil" logo="https://i.postimg.cc/WbMWR38h/fox-kids-network.jpg", Fox Kids
